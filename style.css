@@ -29,7 +29,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-image: url(https://github.com/oguzalpcakmak/oguzalpcakmak.github.io/blob/16926fbb807de4eab3476bbcf887d048295937b9/wp-content/uploads/image-placeholder.png);
+    background-image: url(https://raw.githubusercontent.com/oguzalpcakmak/oguzalpcakmak.github.io/16926fbb807de4eab3476bbcf887d048295937b9/wp-content/uploads/image-placeholder.png);
   }
   @media (max-width: 420px) {
     .image-placeholder {
