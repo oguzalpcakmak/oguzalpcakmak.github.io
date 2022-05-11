@@ -1,0 +1,44 @@
+#submit_button, #page_img
+{
+    backdrop-filter: saturate(800%) blur(4px);
+    width: fit-content;
+    height: fit-content;
+    margin-top: 64px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 16px;
+    border-radius: 64px;
+    box-shadow: 2px 2px 8px crimson;
+}
+#submit_button input
+{
+    background-color: pink;
+    border: palevioletred;
+    color: yellowgreen;
+    text-align: center;
+    border-style: dashed;
+    border-width: thick;
+    border-radius: 32px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: large;
+    padding: 16px;
+}
+#submit_button input:hover
+{
+    background-color: palevioletred;
+    border: pink;
+    color: skyblue;
+    text-align: center;
+    border-style: dashed;
+    border-width: thick;
+    border-radius: 32px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: large;
+    padding: 16px;
+}
+#page_img>img:hover
+{
+    filter: blur(1px) invert();
+}
